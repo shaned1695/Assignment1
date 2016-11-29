@@ -1,4 +1,4 @@
-//https://www.youtube.com/watch?v=17WoOqgXsRM
+
 
 StarField[] stars = new StarField[700];
 float speed = 10;
